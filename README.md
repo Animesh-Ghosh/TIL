@@ -5,9 +5,40 @@
 A collection of concise write-ups on small things I learn across a variety of 
 languages and technologies.
 
-_0 TILs and counting..._
+_6 TILs and counting..._
 
 ## Categories
+* [C++](#C++)
+* [Docker](#Docker)
+* [Drupalcamp-delhi-2019](#DrupalCamp-Delhi-2019)
+* [Makefile](#Makefile)
+* [Qbasic](#QBasic)
+
+---
+
+### C++
+
+- [Everything I know is wrong.](C++/Everything-I-know-is-wrong.md)
+
+### Docker
+
+- [The Thing with Docker Desktop](Docker/The-Thing-with-Docker-Desktop.md)
+
+### Drupalcamp-delhi-2019
+
+- [DrupalCamp Delhi 2019](DrupalCamp-Delhi-2019/DrupalCamp-Delhi-2019.md)
+
+### Makefile
+
+- [First program using Make.](Makefile/First-program-using-Make.md)
+- [Makefiles exist.](Makefile/Makefiles-exist.md)
+
+### Qbasic
+
+- [I used to do QBasic.](QBasic/I-used-to-do-QBasic.md)
+
+---
+
 ## Usage
 
 Steps to follow:
